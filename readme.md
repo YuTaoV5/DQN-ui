@@ -1,5 +1,5 @@
 # DQN迷宫寻路器
-![Img](https://imgpool.protodrive.xyz/img/yank-note-picgo-img-20250112194109.png#pic_center =300x)
+![Img](https://imgpool.protodrive.xyz/img/yank-note-picgo-img-20250112194109.png)
 
 
 安装
