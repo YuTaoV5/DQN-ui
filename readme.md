@@ -1,4 +1,4 @@
-# DQN迷宫寻路器
+# Q-Learning迷宫寻路器
 ![Img](https://imgpool.protodrive.xyz/img/yank-note-picgo-img-20250112194109.png)
 
 
